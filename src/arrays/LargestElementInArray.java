@@ -1,3 +1,5 @@
+package arrays;
+
 public class LargestElementInArray {
 
     //largest element in an array
